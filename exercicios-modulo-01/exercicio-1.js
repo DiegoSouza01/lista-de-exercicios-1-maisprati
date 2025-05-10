@@ -11,4 +11,3 @@ if (numero % 2 === 0) {
 } else {
     console.log(`O número ${numero} é ímpar.`);
 }
-//Vamos testar o código
